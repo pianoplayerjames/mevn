@@ -19,7 +19,7 @@ npm start
 - express: http://localhost:3000
 - mongodb: mongodb://localhost:27017
 
-# mongodb
+# MongoDB
 - Username ```rootuser```
 - Password ```rootpass```
 - Database ```mevn-test```
