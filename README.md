@@ -19,6 +19,11 @@ npm start
 - express: http://localhost:3000
 - mongodb: mongodb://localhost:27017
 
+# mongodb
+- Username ```rootuser```
+- Password ```rootpass```
+- Database ```mevn-test```
+
 # Mongodb GUI
 To view your database you can use mongodb compass:
 https://www.mongodb.com/products/tools/compass
