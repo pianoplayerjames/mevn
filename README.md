@@ -5,9 +5,14 @@
 
 # Usage
 - Before starting, make sure Docker Desktop is running
-```npm install```
-```docker-compose up --build -d```
-```npm start```
+
+```
+git clone https://github.com/pianoplayerjames/mevn.git
+cd mevn
+npm install
+docker-compose up --build -d
+npm start
+```
 
 # Services
 - vue: http://localhost:5173
@@ -26,7 +31,11 @@ The express server runs on port 3000 and has routes that you can access from vue
 
 # Docs
 Mongoose: https://mongoosejs.com/docs
+
 Express: https://expressjs.com/en/guide/routing.html
+
 Vue: https://vuejs.org/guide
+
 NodeJS: https://nodejs.org/docs/latest/api
+
 Tailwindcss: https://tailwindcss.com/docs
