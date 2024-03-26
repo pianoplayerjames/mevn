@@ -20,14 +20,14 @@ npm start
 - mongodb: mongodb://localhost:27017
 
 # Mongodb GUI
-To view your database you can use mongodb compass
+To view your database you can use mongodb compass:
 https://www.mongodb.com/products/tools/compass
 
 VueJS Frontend:
 This is a basic boilerplate with added express & mongodb testing. I have also added tailwindcss, Vue Router, pinia & Vue Dev Tools for convinience. project files can be found in ```client/src```
 
 Express Server:
-The express server runs on port 3000 and has routes that you can access from vueJS. I have also set up mongodb models so that you can send and retrieve information from the database. in ```client/src/components/test``` you will see 2 files called ExpressTest.vue and MongodbTest.vue these are examples of how you can send and receive data from the backend server.
+The express server runs on port 3000 and has routes that you can access from vueJS. I have also set up mongodb models so that you can send and retrieve information from the database. in ```client/src/components/test``` you will see 2 files called ```ExpressTest.vue``` and ```MongodbTest.vue``` these are examples of how you can send and receive data from the backend server.
 
 # Docs
 Mongoose: https://mongoosejs.com/docs
